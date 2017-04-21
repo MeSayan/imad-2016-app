@@ -1,7 +1,6 @@
 body {
-    font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    font-family: Courier ; 
+    background-color: cyan;
 }
 
 .center {
@@ -17,6 +16,6 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 300px;
 }
 
